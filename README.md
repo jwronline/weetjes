@@ -10,4 +10,4 @@
 
 Weetjes is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). No warranty whatsoever.
 
-Gemaakt door: [Haroen Viaene](http://haroen.me) voor [JWR](http://jwronline.be) 2015
+Gemaakt door: [Haroen Viaene](https://haroen.me) voor [JWR](http://jwronline.be) 2015
